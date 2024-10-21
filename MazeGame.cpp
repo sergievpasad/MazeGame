@@ -321,6 +321,7 @@ int main()
     FindFirstPlayerPosition(maze, LX, LY);
     HideCursor();
     Control();
+    int a = 0;
     ShowCursor();
 }
 
